@@ -516,11 +516,6 @@ nav{
 
 .bg_elems img{
     position: absolute;
-    opacity: 0;
-    transition: ease 3s;
-}
-
-body:hover img{
     opacity: 1;
 }
 
